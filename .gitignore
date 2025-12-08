@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Model / binary files
+*.pkl
+*.joblib
+
+# Generated folders
+models/
+
+# Large data artifacts
+data/*.pkl
