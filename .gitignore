@@ -11,3 +11,6 @@ models/
 
 # Large data artifacts
 data/*.pkl
+
+# CSV File
+data/*.csv
